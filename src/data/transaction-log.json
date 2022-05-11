@@ -1,0 +1,90 @@
+[
+    {
+      "cust-name": "Jim",
+      "monthly-transactions": [
+        {
+          "month-name": "Jan",
+          "transactions": [
+            {
+              "transaction-id": 11,
+              "transaction-amount": 20
+            },
+            {
+              "transaction-id": 12,
+              "transaction-amount": 260
+            }
+          ]
+        },
+        {
+          "month-name": "Feb",
+          "transactions": [
+            {
+              "transaction-id": 13,
+              "transaction-amount": 120
+            },
+            {
+              "transaction-id": 14,
+              "transaction-amount": 60
+            }
+          ]
+        },
+        {
+          "month-name": "March",
+          "transactions": [
+            {
+              "transaction-id": 15,
+              "transaction-amount": 120
+            },
+            {
+              "transaction-id": 16,
+              "transaction-amount": 260
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "cust-name": "Rich",
+      "monthly-transactions": [
+        {
+          "month-name": "Jan",
+          "transactions": [
+            {
+              "transaction-id": 17,
+              "transaction-amount": 430
+            },
+            {
+              "transaction-id": 18,
+              "transaction-amount": 60
+            }
+          ]
+        },
+        {
+          "month-name": "Feb",
+          "transactions": [
+            {
+              "transaction-id": 19,
+              "transaction-amount": 330
+            },
+            {
+              "transaction-id": 20,
+              "transaction-amount": 230
+            }
+          ]
+        },
+        {
+          "month-name": "March",
+          "transactions": [
+            {
+              "transaction-id": 21,
+              "transaction-amount": 170
+            },
+            {
+              "transaction-id": 22,
+              "transaction-amount": 60
+            }
+          ]
+        }
+      ]
+    }
+  ]
